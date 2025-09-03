@@ -1,21 +1,10 @@
-# YoRead — Read smarter. Anywhere.
+# YoRead — Turn your ebooks to audiobooks. Anywhere.
 
-Discover a fast, delightful web reader that turns your EPUBs into an immersive, distraction‑free experience — with high‑quality Text‑to‑Speech, smart navigation, and seamless syncing.
+Discover a fast, delightful web reader that turns your EPUBs into an immersive, distraction‑free audiobook experience.
 
 👉 Visit: https://www.yoread.com
 
 ---
-
-## Demos & Media
-
-### Images
-
-![YoRead — Screenshot](./YoRead-Free-Online-Ebook-Reader-AI-Audiobooks-Online-TTS-for-Ebooks-09-03-2025_08_42_PM.png)
-
-### Videos
-
-![Demo White Mode](./demo-whitemode.gif)
-![Mobile Demo](./mobile-demo.gif)
 
 ## Why YoRead?
 
@@ -23,6 +12,27 @@ Discover a fast, delightful web reader that turns your EPUBs into an immersive, 
 - Powerful TTS that sounds natural and keeps pace with you
 - Read on desktop or mobile — nothing to install
 - Your library, your data
+
+
+### Demos & Media
+
+## How it works (at a glance)
+
+- Upload or open an EPUB in your browser
+- YoRead parses, styles, and presents the book cleanly
+- TTS generates audio in chunks while you read
+- Your progress is saved automatically
+- Continue on any device at https://www.yoread.com
+
+#### Desktop view
+![Demo White Mode](./demo-whitemode.gif)
+
+#### Mobile
+![Mobile Demo](./mobile-demo.gif)
+
+#### offline tts option (This only works on desktop Mac & Windows)
+![Mobile Demo](./mobile-demo.gif)
+
 
 ---
 
@@ -55,23 +65,10 @@ Discover a fast, delightful web reader that turns your EPUBs into an immersive, 
 
 ## Coming soon
 
-- Offline mode for TTS + reading
-- Voice customization and per‑book presets
+- Full cast audiobook with multiple ai voice support
 - Notes, highlights, and export
-- Audiobook mode 2.0 (background playback)
-- Collections, tags, and better search
 - Multilingual TTS with auto‑language detection
-- Public reading lists and sharing
 
----
-
-## How it works (at a glance)
-
-- Upload or open an EPUB in your browser
-- YoRead parses, styles, and presents the book cleanly
-- TTS generates audio in chunks while you read
-- Your progress is saved automatically
-- Continue on any device at https://www.yoread.com
 
 ---
 
