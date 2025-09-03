@@ -6,6 +6,17 @@ Discover a fast, delightful web reader that turns your EPUBs into an immersive, 
 
 ---
 
+## Demos & Media
+
+### Images
+
+![YoRead — Screenshot](./YoRead-Free-Online-Ebook-Reader-AI-Audiobooks-Online-TTS-for-Ebooks-09-03-2025_08_42_PM.png)
+
+### Videos
+
+- Demo (White mode): [demo-whitemode.webm](./demo-whitemode.webm)
+- Mobile demo: [mobile-demo.webm](./mobile-demo.webm)
+
 ## Why YoRead?
 
 - Focused reading with a beautiful, minimal UI
@@ -96,20 +107,6 @@ Discover a fast, delightful web reader that turns your EPUBs into an immersive, 
 
 ---
 
-## Demos & Media
-
-### Images
-
-![YoRead Mobile ID Front](./addhar-front.png)
-
-![YoRead Mobile ID Back](./addhar-back.png)
-
-![YoRead — Screenshot](./YoRead-Free-Online-Ebook-Reader-AI-Audiobooks-Online-TTS-for-Ebooks-09-03-2025_08_42_PM.png)
-
-### Videos
-
-- Demo (White mode): [demo-whitemode.webm](./demo-whitemode.webm)
-- Mobile demo: [mobile-demo.webm](./mobile-demo.webm)
 
 ## Get started
 
