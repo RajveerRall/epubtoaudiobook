@@ -5,15 +5,6 @@ Discover a fast, delightful web reader that turns your EPUBs into an immersive, 
 👉 Visit: https://www.yoread.com
 
 ---
-
-## Why YoRead?
-
-- Focused reading with a beautiful, minimal UI
-- Powerful TTS that sounds natural and keeps pace with you
-- Read on desktop or mobile — nothing to install
-- Your library, your data
-
-
 ### Demos & Media
 
 ## How it works (at a glance)
@@ -32,7 +23,6 @@ Discover a fast, delightful web reader that turns your EPUBs into an immersive, 
 
 #### offline tts option (This only works on desktop Mac & Windows)
 ![Mobile Demo](./mobile-demo.gif)
-
 
 ---
 
