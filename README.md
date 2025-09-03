@@ -22,7 +22,7 @@ Discover a fast, delightful web reader that turns your EPUBs into an immersive, 
 ![Mobile Demo](./mobile-demo.gif)
 
 #### offline tts option (This only works on desktop Mac & Windows)
-![Mobile Demo](./mobile-demo.gif)
+![Mobile Demo](./offline-audiobook.gif)
 
 ---
 
