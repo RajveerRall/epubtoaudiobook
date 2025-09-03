@@ -14,8 +14,8 @@ Discover a fast, delightful web reader that turns your EPUBs into an immersive, 
 
 ### Videos
 
-- Demo (White mode): [demo-whitemode.webm](./demo-whitemode.webm)
-- Mobile demo: [mobile-demo.webm](./mobile-demo.webm)
+![Demo White Mode](./demo-whitemode.gif)
+![Mobile Demo](./mobile-demo.gif)
 
 ## Why YoRead?
 
